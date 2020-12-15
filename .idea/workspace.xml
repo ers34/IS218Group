@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02540206-4798-49fd-b5af-03e0af2b716f" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/welcome.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608008502877</updated>
-      <workItem from="1608008504452" duration="2330000" />
+      <workItem from="1608008504452" duration="3177000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1608010367041</created>
@@ -54,7 +55,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608010367041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1608011440547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608011440547</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1608011568100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608011568100</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1608011577848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608011577848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,17 +87,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="241" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608008514330">
+    <state x="241" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608011594647">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="241" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1608008514330" />
+    <state x="241" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1608011594647" />
+    <state x="640" y="331" key="Github.ShareDialog" timestamp="1608011649423">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="640" y="331" key="Github.ShareDialog/0.23.1440.808@0.23.1440.808" timestamp="1608011649423" />
     <state x="596" y="357" key="NewPhpFileDialog" timestamp="1608011293946">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="596" y="357" key="NewPhpFileDialog/0.23.1440.808@0.23.1440.808" timestamp="1608011293946" />
-    <state x="377" y="167" key="Vcs.Push.Dialog.v2" timestamp="1608010376014">
+    <state x="377" y="167" key="Vcs.Push.Dialog.v2" timestamp="1608011718242">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="377" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1608010376014" />
+    <state x="377" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1608011718242" />
+    <state x="575" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608011626793">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="575" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.808@0.23.1440.808" timestamp="1608011626793" />
   </component>
 </project>

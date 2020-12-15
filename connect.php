@@ -8,7 +8,7 @@ define('db_name', 'ers34');
 try {
     $conn = new PDO("mysql:host=" . sql_server . ";dbname=" . db_name, sql_username, sql_passl);
     // Set the PDO error mode to exception
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 } catch (PDOException $e) {
     die("ERROR: Could not connect. " . $e->getMessage());
 }
