@@ -17,14 +17,14 @@ exit(); }*/
     <title>Todo-List</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top"> <a class="navbar-brand" href="index.php">Sign Up</a>
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top"> <a class="navbar-brand" href="registration.php">Sign Up</a>
     <button class="navbar-toggler"
             type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
             aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item"> <a class="nav-link" href="about.php">Login</a>
+            <li class="nav-item"> <a class="nav-link" href="login.php">Login</a>
             </li>
         </ul>
     </div>
@@ -58,7 +58,7 @@ exit(); }*/
         <div class="col-4">
             <div class="card mb-5 shadow-sm bg-white rounded p-3">
                 <div class="card-body">
-                    <h3><a class="nav-link" href="about.php">Log Out</h3>
+                    <h3><a class="nav-link" href="logout.php">Log Out</h3>
                 </div>
             </div>
         </div>
@@ -70,6 +70,5 @@ exit(); }*/
 </html>
 <!-- /.container -->
 <html>
-<p>the page to redirected to after login</p>
 <script type="text/javascript" src="js/taskjs.js"></script>
 </html>
